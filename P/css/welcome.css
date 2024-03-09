@@ -1,0 +1,62 @@
+	.con{
+		width: 20%;
+		/*background-color: rgba(132, 143, 190,0.6);*/
+		background-color:rgba(132, 143, 190,1);
+		border:0 5px 0 0 solid black;
+		height: 580px;
+
+	}
+	.cont{
+		width: 100%;
+	}
+	.body-container{
+		display: flex;
+		height: 580px;
+	}
+	.header{
+		height: 70px;
+		display: flex;
+		align-items: center;
+		font-family: "Bitstream Vera Serif", serif;
+		background-color:rgb(110, 124, 187);
+	}
+	h4{
+		margin-left: 25%;
+		font-size: 0.9cm;
+		color: rgb(251, 252, 249);
+		font-weight: 900;
+	}
+	.profile{
+		margin-left: 15%;
+	}
+	.row{
+		margin-top: 30px;
+	}
+	.welcome{
+		font-family: "Bitstream Vera Serif", serif;
+	}
+	.subli:hover{
+		background-color: rgba(132, 143, 190,0.3);
+        width:100%;
+	}
+	.subli{
+		list-style: none;
+	}
+	/*.dash{
+		margin: 10px 0px 20px 10px;
+		display: inline;
+	}*/
+	.d{
+		overflow-x: hidden;
+		overflow-y: auto;
+        display: flex;
+        justify-content:center;
+        align-items: center;
+		background-color: rgba(132, 143, 190,0.8);
+	}
+    .extra{
+        width: 100%;
+    }
+	li:hover{
+		background-color:  rgba(132, 143, 190,0.6);
+	}

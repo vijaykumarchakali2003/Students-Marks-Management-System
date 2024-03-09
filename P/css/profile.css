@@ -1,0 +1,27 @@
+.header{
+    background-color: rgba(216, 22, 216, 0.5);
+    display: flex;
+    padding: 20px 10px 10px 20px;
+}
+.profile{
+    margin-left: 00px;
+}
+h4{
+    font-family: "Trirong", serif;
+    text-shadow: 3px 3px 3px #962c2c;
+    font-weight: 900;
+    font-size: 40px;
+    margin: 0 280px;
+}
+.fluid-container{
+    height: 520px;;
+}
+.img{
+    float: left;
+    height: 500px;
+}
+.x{
+    display: flex;
+    align-items: center;
+    height: 500px;
+}

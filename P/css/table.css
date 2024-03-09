@@ -1,0 +1,22 @@
+th{
+    color: white;
+}
+
+table.result{
+    border: 2px solid white;
+    background-color: lightblue;
+    font-weight: 900;
+}
+tr.main{
+    background-color: midnightblue;
+}
+.result{
+    margin-top: 20px;
+}
+.details{
+    margin-top: 10px;
+}
+.head{
+    font-size: 1cm;
+    font-family: Georgia, serif;
+}
